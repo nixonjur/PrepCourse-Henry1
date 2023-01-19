@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-Este es repositorio como ejemplo de modulo 2
+prueba como crear un repositorio y clonarlo desde github al computador 
